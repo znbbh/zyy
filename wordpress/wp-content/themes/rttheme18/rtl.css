@@ -1,0 +1,366 @@
+.top_links [class^="icon-"]:before, .top_links [class*=" icon-"]:before,
+.post_data [class^="icon-"]:before, .post_data [class^="icon-"]:after,
+#navigation_bar [class^="icon-"]:before, #navigation_bar [class*=" icon-"]:before,
+.button_ [class^="icon-"]:before, .button_ [class*=" icon-"]:before,
+.top_links [class^="icon-"]:before, .top_links [class*=" icon-"]:before
+{
+	margin-left: 5px;  
+    margin-right: 0; 
+}
+
+#navigation {
+    float: right;
+}
+
+#navigation .sub-menu li{
+	text-align: right;
+}
+
+#navigation .sub-menu ul{
+	right: 160px;
+}
+
+#navigation .sub-menu li.hasSubMenu > a:after { 
+	content:"\f104";
+	left: 20px;
+	right: auto;
+}
+
+#navigation .multicolumn-holder ul li{
+    text-align: right;
+}
+
+#navigation .multicolumn-holder a,
+#navigation .multicolumn-holder a:hover{
+    text-align: right;
+}
+
+#navigation .multicolumn-holder a:hover:after {
+    content: "";
+    left: auto;
+    right: 0;
+    margin-left: auto;
+    margin-right: -10px;
+}
+
+#navigation li.multicolumn > .multicolumn-holder{
+    right: 0;
+    left: auto;
+}
+
+.multicolumn-holder > ul{
+    border-left: 0;
+    border-right: 1px solid #EEEEEE;
+}
+
+.multicolumn-holder > ul:first-child{
+    border-right: 0;
+}
+
+.search-bar{
+    float: left;
+}
+
+.search-bar form input {
+    float: right; 
+    padding: 0 0 0 10px;
+    width: 80px;
+    text-align: right;
+}
+
+.search-bar .icon-search-1{
+    margin-left: 2px;
+    margin-right: 2px;
+} 
+
+.breadcrumb a.icon-home:before {
+    margin-left: 5px;
+}
+
+.breadcrumb .icon-angle-right:before{
+	content:"\f104";
+}
+
+.with_icons > li span {
+    padding-left: 6px;
+    margin-right: 0;
+}
+
+img.recent-posts-thumb { 
+    float: right;
+    margin: 0 0 10px 10px; 
+}
+
+.info_bar .heading {
+    float: right;
+}
+
+.info_bar .breadcrumb {
+    float: left;
+    text-align: left;
+}
+
+.blog_list h1[class^="icon-"]:before, .blog_list h2[class^="icon-"]:before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.post_data span { 
+    border-width: 0 0 0 1px; 
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.post_data span:last-child {
+    border-left: 0 none;
+}
+
+.post_data span:first-child{
+	margin-right: 0;
+}
+
+blockquote p:first-child:before { 
+    left: auto; 
+    top: auto;  
+    bottom: 2px; 
+    left: 10px;    
+}
+blockquote p:last-child:after {
+    bottom: auto; 
+    right: auto; 
+    right: 10px; 
+    top: 10px;    
+}
+
+.blog_list section.first_section{
+	float: right;
+}
+
+.blog_list section.article_section {
+    margin-right: 70px;
+    margin-left: 0;
+}    
+
+.blog_list section.article_section.with_icon{
+    margin-right: 0;
+}
+
+div.date_box { 
+    margin: 0 0 0 10px; 
+}
+
+ul, ol {
+    margin: 0 17px 20px 0;
+}
+
+ul ul li, ol ol li {
+    margin: 5px 15px 5px 0;
+}
+
+.tags span:first-child {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.rt_comments ol.commentlist ul.children {
+    margin: 20px 60px 0 0;
+}
+
+.caption.embedded .featured_article_title {
+    padding: 5px 0 0 10px;
+}
+
+.testimonials .testimonial .text .icon-quote-left:before{
+    content: "\f10e";
+}
+
+.testimonials .testimonial .text .icon-quote-left{
+    padding-left: 6px;
+    padding-right:0;
+}
+
+.testimonials .testimonial .text .icon-quote-right:before{
+    content: "\f10d";
+}
+
+.testimonials .testimonial .text .icon-quote-right {
+    padding-left: 0;
+    padding-right: 6px;
+}
+
+.info_box .icon-cancel{
+    left: 10px;
+    right: auto;
+}
+
+.info_box p[class^="icon-"]:before, .info_box p[class*=" icon-"]:before { 
+    margin: -12px -35px 0 20px; 
+}
+
+.info_box p {
+    padding: 0 40px 0 10px;
+}
+
+.pricing_table.compare .table_wrap.features ul {
+    border-radius: 0 8px 8px 0; 
+    margin-left: -22px;
+    margin-right: auto;
+    padding: 0 0 0 20px;
+}
+
+#slogan_text{
+    text-align: left;
+}
+
+.top_links > li:last-child {
+    border-right-width: 1px;
+}
+
+.top_links > li:first-child{ 
+    border-width:0; 
+}    
+
+footer .part1, .owl-carousel,.flex-viewport{direction: ltr; }
+
+.title_icon {
+    margin: 0 0 4px 8px;
+} 
+
+.woocommerce ul.cart_list li img, .woocommerce-page ul.cart_list li img, .woocommerce ul.product_list_widget li img, .woocommerce-page ul.product_list_widget li img{
+    float: left;
+    margin-left: 0;
+    margin-right: 4px;    
+}
+
+.woocommerce .star-rating, .woocommerce-page .star-rating{
+    right: 10px;
+}
+
+.wooselect .wooselectInner:before {
+    left: 10px;
+    right: auto; 
+}
+
+#top_bar .social_media, footer .social_media{
+    float: left;
+}
+
+.top_links, footer .part1{
+    float: right;
+}
+
+ul.footer_links, footer .copyright{
+    text-align: right;
+}
+
+.sidebar.left.fixed {
+    left: 10px;
+}
+
+.sidebar.right, .sidebar.right.fixed {
+    margin-right: 10px;
+}
+
+.latest-news .featured-image .date {
+    right: 0;
+}
+
+.carousel-holder .owl-carousel .item {
+    text-align: right;
+}
+
+#sticky_logo { 
+    float: right; 
+    margin-left: 10px;
+    margin-right: 0; 
+}
+
+.with_borders .product_info {
+    text-align: right;
+}
+.content.full .tab-style-three .tabs:before{
+    left: auto;
+    right: -100%;
+}
+
+.tabs_wrap .tabs li{
+    float: right;
+}
+
+.imgeffect a:first-child {
+    right: 50%;
+    left: auto;
+}
+
+.imgeffect:hover a{
+    right: auto;
+    left: 10px;
+}
+
+.with_icons li span, .with_icons.big_icons li span{
+    float: right;
+}
+
+.with_icons > li span {
+    padding-right: 6px;
+    padding-left: auto;
+}
+
+.with_icons.icon_borders p {
+    margin-right: 70px;
+    margin-left: auto;    
+}
+
+.banner .featured_text.withbutton, .banner .featured_text{
+    text-align: right;
+}
+
+.banner .button_.alignright {
+    float: left;
+}
+
+.banner .withbutton p[class^="icon-"], .banner .withbutton p[class*=" icon-"] {
+    padding-left: 0;
+    padding-right: 60px;
+}
+
+.banner .withbutton p[class^="icon-"]:before, .banner .withbutton p[class*=" icon-"]:before {
+    margin: -3px -55px 0 0;
+}
+
+.rt-parallax-background{
+    direction: ltr !important;
+}
+
+.pin:after {
+    direction: ltr;
+}
+
+.featured .default_icon .heading_icon {
+    margin: 0 0 4px 8px;
+}
+
+.title_line h3 {
+    float: right;
+    padding-right: 0;
+    padding-left: 20px;
+}
+
+.title_line .featured_article_title:after {
+    margin-right: 20px; 
+}
+
+.heading_icon {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.rt-toggle ol li .toggle-number, .rt-toggle ol li.open .toggle-number {
+    right: 0;
+    left: auto;
+}
+
+.rt-toggle ol li .toggle-head, .rt-toggle ol li.open .toggle-head {
+    background-position: left 5px;
+}
+
