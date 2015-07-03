@@ -6,3 +6,7 @@
 
 # jenkins download path
 /usr/local/tomcat_9080/webapps/jenkins/jobs/
+
+# Customizr
+https://www.youtube.com/results?search_query=Customizr
+https://www.youtube.com/watch?v=jnCGv88rQTw
