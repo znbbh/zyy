@@ -15,7 +15,7 @@
 <?php
 mysql_query("SET NAMES UTF8");
 
-$link = mysql_connect('123.**.**.***', 'root', 'myoa888');
+$link = mysql_connect('123.**.**.***', 'root', 'myoa***');
 
 if (!$link) {
     die('It is a connection failure.'.mysql_error());
