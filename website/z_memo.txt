@@ -1,0 +1,4 @@
+
+# Ê×Ò³»ÃµÆÍ¼Æ¬
+/wp-content/themes/customizr/inc/assets/img/customizr-theme-responsive.png
+/wp-content/themes/customizr/inc/assets/img/customizr-theme-customizer.png
