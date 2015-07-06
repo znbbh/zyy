@@ -1,1 +1,0 @@
-Please read the documentation in the downloaded package

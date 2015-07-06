@@ -1,1 +1,0 @@
-<input type="text" class="thb-iconpicker" name="<?php echo $field_name; ?>" value="<?php echo $field_value; ?>">
