@@ -1,5 +1,5 @@
 
-# ��ҳ�õ�ͼƬ
+# 幻灯片
 /wp-content/themes/customizr/inc/assets/img/customizr-theme-responsive.png
 /wp-content/themes/customizr/inc/assets/img/customizr-theme-customizer.png
 
